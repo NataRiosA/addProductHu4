@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Seleccion de articulo de tecnologia" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-07T21:37:09" hostname="22LAP5CG0525FBR" time="19.402">
+  <properties/>
+  <testcase name="como usuario debo poder seleccionar categoria de cualquier producto de tecnologia" classname="Seleccion de articulo de tecnologia" time="19.402"/>
+  <system-out><![CDATA[16:37:10.698 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+16:37:10.698 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, acceptSslCerts: true, browserName: chrome, goog:chromeOptions: {args: [], extensions: []}, incognito: true, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+16:37:20.721 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Opening darkroom
+16:37:20.725 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line starting up
+16:37:21.652 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\addProductHu4\target\site\serenity\50212266ae87736d105388eae847174009ffc4045f60cac49864d191a24b9eba.png
+16:37:21.656 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-880710420533761366
+16:37:21.656 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\addProductHu4\target\site\serenity\50212266ae87736d105388eae847174009ffc4045f60cac49864d191a24b9eba.png
+16:37:23.239 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\addProductHu4\target\site\serenity\ed0b24d25c67425a6d9a2cbf9b333a9d73b2edb5bed9b0a59ed76cc739eafdd3.png
+16:37:23.242 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-4859988720622314463
+16:37:23.242 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\addProductHu4\target\site\serenity\ed0b24d25c67425a6d9a2cbf9b333a9d73b2edb5bed9b0a59ed76cc739eafdd3.png
+16:37:25.374 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\addProductHu4\target\site\serenity\8e5b15c4d436cf7e7e2961ca5cc3404ff515eb63e21f5772dd6935a3c9966575.png
+16:37:26.082 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\addProductHu4\target\site\serenity\2c09a53411b10cd77fa64a889565429412db43146a3370d2d88c77d4f8baf881.png
+16:37:26.084 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-373111978361269319
+16:37:26.084 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\addProductHu4\target\site\serenity\2c09a53411b10cd77fa64a889565429412db43146a3370d2d88c77d4f8baf881.png
+16:37:27.851 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Send negative for processing for C:\addProductHu4\target\site\serenity\95d84497f21aef4e309cd42ed4e87ddbc7b463d23972b18ffdbcf31627aa8302.png
+16:37:27.853 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Processing screenshot image in /var/screenshots/screenshot-3182222857903245325
+16:37:27.853 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Saving screenshot to C:\addProductHu4\target\site\serenity\95d84497f21aef4e309cd42ed4e87ddbc7b463d23972b18ffdbcf31627aa8302.png
+16:37:29.235 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: como usuario debo poder seleccionar categoria de cualquier producto de tecnologia
+----------------------------------------------------------------------------?[0m
+]]></system-out>
+  <system-err><![CDATA[ene 07, 2022 4:37:10 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 41426
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 07, 2022 4:37:15 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
